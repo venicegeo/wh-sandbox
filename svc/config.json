@@ -1,0 +1,15 @@
+{
+	"cmd":"svc",
+	"routing": {
+		"hello": {
+			"GET": {},
+			"POST":{
+				"name":"",
+				"count":0
+			}
+		},
+		"lightning":{
+			"GET":{}
+		}
+	}
+}
