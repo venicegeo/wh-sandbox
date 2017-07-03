@@ -108,7 +108,9 @@ func handleRequest(c *gin.Context) {
 	fmt.Println(flags)
 	dat, err := exec.Command(config.Cmd, flags...).Output()
 	code := map[bool]int{true: 200, false: 400}[err == nil]
-	c.String(code, strings.TrimSpace(string(dat)))
+	res := strings.TrimSpace(string(dat))
+	fmt.Println(res)
+	c.String(code, res)
 }
 
 func printJson(i interface{}) {
