@@ -12,13 +12,13 @@
         "python >=2.7,<2.8.0a0"
       ],
       "license": "Apache 2.0",
-      "md5": "c32e931efa73c6e5de15a4545be7d55a",
+      "md5": "acbd585a16222cb756ec5a091a85975f",
       "name": "gippy",
-      "sha256": "458e6c335e65214f9eaf42e1cc28c3e5c57757a97069ad04707617a321b7de5c",
+      "sha256": "d1b337b123ca62e40fdea50962fa6abf085d39521eb26add2f82d4266c97bdc0",
       "sig": null,
-      "size": 4965001,
+      "size": 4965931,
       "subdir": "linux-64",
-      "timestamp": 1500312180317,
+      "timestamp": 1500316870090,
       "version": "1.0.0b8"
     },
     "libagg-2.5.0-h832b4f1_0.tar.bz2": {
@@ -26,13 +26,13 @@
       "build_number": 0,
       "depends": [],
       "license": "GPL",
-      "md5": "70dece28630e4315f510c8049636cfaf",
+      "md5": "5ad4b0647e0136f7f885b346b062e6d4",
       "name": "libagg",
-      "sha256": "d8f48e2e012f016fccc0f58cabf37a24dc0f48d133db6e566a49936862989181",
+      "sha256": "53323208599339904c4947404c48ddfde40e98a6dd31af80c42136a55ed2bd08",
       "sig": null,
-      "size": 778695,
+      "size": 778489,
       "subdir": "linux-64",
-      "timestamp": 1500311627810,
+      "timestamp": 1500316601356,
       "version": "2.5.0"
     },
     "pypotrace-0.1.3-py27h5dd94a1_0.tar.bz2": {
@@ -43,13 +43,13 @@
         "python >=2.7,<2.8.0a0"
       ],
       "license": "GPL",
-      "md5": "d3b6cc28ac8a81052f697df22d81bc8f",
+      "md5": "504802d3ffd1da1801b671285c36c427",
       "name": "pypotrace",
-      "sha256": "a7cae824deb5df032ad94a01418d904b1c7d959b8c285ad4b7f056d5fe4cbcbb",
+      "sha256": "282d20b67adf4f65d9b8356e319aec34a7fc752d98c2a359c12ff3d2734dc4f7",
       "sig": null,
-      "size": 286951,
+      "size": 286991,
       "subdir": "linux-64",
-      "timestamp": 1500311854675,
+      "timestamp": 1500316695380,
       "version": "0.1.3"
     }
   }
