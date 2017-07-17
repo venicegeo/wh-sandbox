@@ -1,4 +1,0 @@
-package: svcflex
-import:
-- package: github.com/braintree/manners
-- package: github.com/gin-gonic/gin
