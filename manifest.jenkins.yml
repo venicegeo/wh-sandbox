@@ -1,0 +1,10 @@
+applications:
+- name: conda-channel
+  host: conda-channel
+  command: ./wh-sandbox channel
+  health_check_type: none
+  memory: 1G
+  timeout: 100
+  disk_quota: 2G
+  instances: 1
+  buildpack: binary_buildpack
